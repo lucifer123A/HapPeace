@@ -9,6 +9,7 @@ import {View,
 } from 'react-native';
 
 import * as firebase from 'firebase';
+import * as admin from 'firebase-admin';
 
 const Login= props=> {
     
@@ -19,7 +20,7 @@ const Login= props=> {
 
     const getUsername= () =>{
         setTimeout(()=>{
-            firebase.database().ref('users/').on('value',(snapshot)=>{
+            admin.database().ref("users/").once("value",(snapshot)=>{
                 const snap= snapshot.val();
                 console.log("name= "+snap.username);
                 console.log("snap= "+snap);

@@ -15,7 +15,6 @@ const SignUp= props=> {
     const [email, setEmail]= useState('');
     const[password, setPassword]= useState('');
     const[username, setUsername]= useState('');
-    const[userId,setUserId]=useState(1);
 
     const {navigate}= props.navigation;
     
@@ -26,7 +25,6 @@ const SignUp= props=> {
                 return;
             }
             firebase.auth().createUserWithEmailAndPassword(email,password).then(response=>{
-                navigate('Dashboard',{name: username});
                 setEmail('');
                 setPassword('');
                 setUsername('');
@@ -37,14 +35,13 @@ const SignUp= props=> {
         }
     }
     
-    const storeUsername= (userId,username) =>{
-        
-        let id=userId+1;
-        setUserId(id);
+    const storeUsername= (username,email,password) =>{
 
         setTimeout(()=>{
-            firebase.database().ref('users/'+userId).set({
-                name: username
+            firebase.database().ref('users/').push({
+                name: username,
+                email: email,
+                password: password
             }).then((data)=>{
                 console.log('data',data)
             }).catch((err)=> {
@@ -52,6 +49,7 @@ const SignUp= props=> {
             })
         },3000
         )
+        navigate('Dashboard',{name: username});
     }
         return(
             <View style={styles.container}>
@@ -89,7 +87,7 @@ const SignUp= props=> {
                         <Button title="Signup"
                         onPress={()=> {
                             signUpMethod(email, password);
-                            storeUsername(userId,username);
+                            storeUsername(username,email,password);
                         }}/>
                     </TouchableOpacity>
                 
