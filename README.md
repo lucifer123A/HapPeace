@@ -10,6 +10,6 @@ Just follow the below mentioned steps to win the exciting swags
 - GitHub: [GitHub account name](GitHub link)
 
 
-- Hurrah! Check your progress on the [site](https://hacktoberfest.digitalocean.com/)
+**Hurrah! Check your progress on the [site](https://hacktoberfest.digitalocean.com/)
 
 ## Remember you need to submit 5 successful PRs to and then wait for few weeks to get it accepted by Hacktoberfest team to get your swags
