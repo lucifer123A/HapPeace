@@ -21,4 +21,5 @@
 
 
 
-- Institute Name: The LNM Institute of Information Technology
+
+- GitHub: [Vaibhav Jain](https://github.com/vjainlion)
