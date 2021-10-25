@@ -20,4 +20,5 @@
 
 
 
-- Bio: Frontend web Developer
+
+- Institute Name: The LNM Institute of Information Technology
