@@ -19,5 +19,11 @@
 - GitHub: [Vanisha Vaish](https://github.com/v-vanisha)
 
 
-
+#### Name: [Vaibhav Jain](https://github.com/vjainlion)
 - Place: Bhilwara,Rajasthan,India
+- Bio: Frontend web Developer
+- Institute Name: The LNM Institute of Information Technology
+
+
+
+
