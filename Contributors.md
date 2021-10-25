@@ -7,3 +7,9 @@
 - Place: Jaipur, Rajasthan, India
 - Bio: Frontend web and cloud developer
 - GitHub: [Tarun-poddar](https://github.com/Tarun-poddar)
+
+
+#### Name: [Praveen Kumar](https://github.com/pravee42)
+- Place: Cuddalore, Tamil Nadu, India
+- Bio: Frontend web and Backend developer
+- GitHub: [Praveen Kumar](https://github.com/pravee42)
