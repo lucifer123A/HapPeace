@@ -2,8 +2,8 @@ Hello Friends! I have made this repo solely to help you to get swags by particip
 Just follow the below mentioned steps to win the exciting swags
 - Connect your github with [hacktoberfest](https://hacktoberfest.digitalocean.com/)
 - Make 5 pull requests in this repository and wait for all to get merged
-- Add your name in the Contributors.md file in the below mentioned format:
-- Don't do it all together, add each of the single line as a single PR, so that adding 5 lines separately can complete the goal of 5 PRs for you
+- PR1 could be to add your the your details in the contributors.md file in below mentioned format
+- Rest 4 PRs could be of any 4 projects that you have made so far
 
 ```
 #### Name: [YOUR NAME](GitHub link)
