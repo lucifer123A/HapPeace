@@ -19,4 +19,4 @@
 - GitHub: [Vanisha Vaish](https://github.com/v-vanisha)
 
 #### Name: [Vaibhav Jain](https://github.com/vjainlion)
-- Place: Bhilwar,Rajasthan,India
+- Place: Bhilwara ,Rajasthan, India
