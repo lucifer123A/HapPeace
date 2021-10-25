@@ -16,4 +16,4 @@ Just follow the below mentioned steps to win the exciting swags
 
 Hurrah! Check your progress on the [site](https://hacktoberfest.digitalocean.com/)
 
-#### Remember you need to submit 5 successful PRs in order to claim your swags. In order to do so either you can make 5 different PRs or just add your details in contributors.md file one by one in form of 5 PRs.
+#### Remember you need to submit 5 successful PRs in order to claim your swags. In order to do so either you can make 5 different PRs or just add your details in contributors.md file one by one in form of 5 PRs as mentioned above.
