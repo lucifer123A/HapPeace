@@ -18,3 +18,5 @@
 - Bio: Frontend web Developer
 - GitHub: [Vanisha Vaish](https://github.com/v-vanisha)
 
+
+- Place: Bhilwara,Rajasthan,India
