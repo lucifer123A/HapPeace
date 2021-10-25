@@ -14,4 +14,4 @@ Just follow the below mentioned steps to win the exciting swags
 
 Hurrah! Check your progress on the [site](https://hacktoberfest.digitalocean.com/)
 
-##### Remember you need to submit 5 successful PRs to and then wait for few weeks to get it accepted by Hacktoberfest team to get your swags
+#### Remember you need to submit 5 successful PRs in order to get your swags
