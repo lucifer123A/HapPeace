@@ -8,8 +8,13 @@
 - Bio: Frontend web and cloud developer
 - GitHub: [Tarun-poddar](https://github.com/Tarun-poddar)
 
-
 #### Name: [Praveen Kumar](https://github.com/pravee42)
 - Place: Cuddalore, Tamil Nadu, India
 - Bio: Frontend web and Backend developer
 - GitHub: [Praveen Kumar](https://github.com/pravee42)
+
+#### Name: [Vanisha Vaish](https://github.com/v-vanisha)
+- Place: Dehradun,Uttarakhand,India
+- Bio: Frontend web Developer
+- GitHub: [Vanisha Vaish](https://github.com/v-vanisha)
+
