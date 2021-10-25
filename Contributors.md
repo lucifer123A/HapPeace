@@ -21,8 +21,8 @@
 
 
 
-
+#### Name: [Vaibhav Jain](https://github.com/vjainlion)
+- Bio: Frontend web Developer
 - Institute Name: The LNM Institute of Information Technology
-
 
 
