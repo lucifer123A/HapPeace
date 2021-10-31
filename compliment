@@ -1,0 +1,22 @@
+%complement
+x = [0:0.1:25];
+y = trapmf(x,[0 10 15 20]);
+plot(x,y)
+grid
+title('A')
+figure
+mem1 = 1 - y;
+plot(x,mem1)
+grid
+title('A*')
+figure
+y1=trimf(x,[15 20 25]);
+plot(x,y1)
+grid
+title('B')
+figure
+mem2=1-y1;
+plot(x,mem2)
+grid
+title('B*')
+figure
