@@ -1,0 +1,16 @@
+%INTERSECTION 
+x = 0:0.1:25;
+y = trapmf(x,[0 10 15 20]);
+plot(x,y)
+grid
+title('A')
+figure
+y2=trimf(x,[15 20 25]);
+plot(x,y2)
+grid
+title('B')
+figure
+membership=min(y,y2);
+plot(x,membership)
+grid
+title('INTERSECTION')
