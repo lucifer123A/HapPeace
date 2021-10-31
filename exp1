@@ -1,0 +1,14 @@
+clc
+x=0:20;
+eq1=x/10;
+figure(1)
+plot(x,eq1);
+eq2=(15-x)/5;
+figure(2)
+plot(x,eq2);
+eq3=min(eq1,eq2);
+figure(3)
+plot(x,eq3);
+eq4=max(eq3,0);
+figure(4)
+plot(x,eq4);
